@@ -1,0 +1,1176 @@
+{
+    "took": 2651,
+    "timed_out": false,
+    "_shards": {
+        "total": 10,
+        "successful": 10,
+        "failed": 0
+    },
+    "hits": {
+        "total": 172203,
+        "max_score": 13.664003,
+        "hits": [
+            {
+                "_index": "products-v1",
+                "_type": "amazon",
+                "_id": "B009GB3YYI",
+                "_score": 13.664003,
+                "_source": {
+                    "prime": false,
+                    "similar": [
+                        "B00WAPDENS",
+                        "B013CUAD2E",
+                        "B01DAEMUAK",
+                        "B06Y48YHRY",
+                        "B00BYKA6OA",
+                        "B00Q8JUU16",
+                        "B00B1SLTL4",
+                        "B074DZQQWZ",
+                        "B00SGT877A",
+                        "B01DJ98YJM"
+                    ],
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/I/51CIgUPT38L.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/91IZLuhAXqL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/81JYNra0olL.jpg"
+                    ],
+                    "salePrice": 2368,
+                    "upc": "716106559303",
+                    "description": "Men's Adidas Low cut Performance cushioned 6 pair socks - Extended Size Shoe 12 - 16",
+                    "experimental": {
+                        "f1RankAZ": 12.575356483459473,
+                        "f2BackpackPrice": 3971,
+                        "f5Sweetness": 60.234
+                    },
+                    "title": "Adidas Low cut Performance cushioned 6 Pair Socks - Extended Size Shoe 12 - 16",
+                    "ean": "0716106559303",
+                    "optimus": false,
+                    "feature": [
+                        "79% acrylic. 16% polyester",
+                        "3% natural latex rubber. 2% spandex. Machine wash."
+                    ],
+                    "price": 2368,
+                    "asin": "B009GB3YYI",
+                    "categories": [
+                        [
+                            {
+                                "node": "3375251",
+                                "parent": "0",
+                                "level": 0,
+                                "title": "Sports & Outdoors"
+                            }
+                        ],
+                        [
+                            {
+                                "node": "7141123011",
+                                "parent": "0",
+                                "level": 0,
+                                "title": "Clothing, Shoes & Jewelry"
+                            },
+                            {
+                                "node": "7147441011",
+                                "parent": "7141123011",
+                                "level": 1,
+                                "title": "Men"
+                            },
+                            {
+                                "node": "1040658",
+                                "parent": "7147441011",
+                                "level": 2,
+                                "title": "Clothing"
+                            },
+                            {
+                                "node": "3455821",
+                                "parent": "1040658",
+                                "level": 3,
+                                "title": "Active"
+                            },
+                            {
+                                "node": "1045724",
+                                "parent": "3455821",
+                                "level": 4,
+                                "title": "Athletic Socks"
+                            }
+                        ],
+                        [
+                            {
+                                "node": "7141123011",
+                                "parent": "0",
+                                "level": 0,
+                                "title": "Clothing, Shoes & Jewelry"
+                            },
+                            {
+                                "node": "7147441011",
+                                "parent": "7141123011",
+                                "level": 1,
+                                "title": "Men"
+                            },
+                            {
+                                "node": "7581669011",
+                                "parent": "7147441011",
+                                "level": 2,
+                                "title": "Shops"
+                            }
+                        ]
+                    ],
+                    "brand": "Adidas",
+                    "listPrice": 2368,
+                    "dimensions": {
+                        "length": 1170,
+                        "width": 930,
+                        "weight": 80,
+                        "height": 230
+                    },
+                    "updatedAt": "2017-12-04T09:11:16.790Z"
+                }
+            },
+            {
+                "_index": "products-v1",
+                "_type": "amazon",
+                "_id": "B073JPCKW7",
+                "_score": 13.664003,
+                "_source": {
+                    "prime": false,
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/I/512iyJsHXZL._UL900_.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/61XssAwBtPL._UL900_.jpg"
+                    ],
+                    "salePrice": 2999,
+                    "upc": "889772835153",
+                    "description": "Adidas Women's CLIMAWARM Jogger Taper Sweat Pants Small Grey",
+                    "experimental": {
+                        "f1RankAZ": 12.575356483459473,
+                        "f2BackpackPrice": 5209,
+                        "f5Sweetness": 84.5688
+                    },
+                    "title": "Adidas Women's CLIMAWARM Jogger Taper Sweat Pants Small Grey",
+                    "ean": "0889772835153",
+                    "optimus": false,
+                    "feature": [
+                        "100% Polyester",
+                        "Machine wash warm, tumble dry low"
+                    ],
+                    "price": 2999,
+                    "asin": "B073JPCKW7",
+                    "categories": [
+                        [
+                            {
+                                "node": "3375251",
+                                "parent": "0",
+                                "level": 0,
+                                "title": "Sports & Outdoors"
+                            }
+                        ],
+                        [
+                            {
+                                "node": "7141123011",
+                                "parent": "0",
+                                "level": 0,
+                                "title": "Clothing, Shoes & Jewelry"
+                            },
+                            {
+                                "node": "7147440011",
+                                "parent": "7141123011",
+                                "level": 1,
+                                "title": "Women"
+                            },
+                            {
+                                "node": "1040660",
+                                "parent": "7147440011",
+                                "level": 2,
+                                "title": "Clothing"
+                            },
+                            {
+                                "node": "3456051",
+                                "parent": "1040660",
+                                "level": 3,
+                                "title": "Active"
+                            },
+                            {
+                                "node": "1046600",
+                                "parent": "3456051",
+                                "level": 4,
+                                "title": "Active Pants"
+                            }
+                        ],
+                        [
+                            {
+                                "node": "7141123011",
+                                "parent": "0",
+                                "level": 0,
+                                "title": "Clothing, Shoes & Jewelry"
+                            },
+                            {
+                                "node": "7147440011",
+                                "parent": "7141123011",
+                                "level": 1,
+                                "title": "Women"
+                            },
+                            {
+                                "node": "7581668011",
+                                "parent": "7147440011",
+                                "level": 2,
+                                "title": "Shops"
+                            }
+                        ]
+                    ],
+                    "brand": "Adidas",
+                    "listPrice": 2999,
+                    "dimensions": {
+                        "length": 1386,
+                        "width": 1016,
+                        "weight": 61,
+                        "height": 248
+                    },
+                    "updatedAt": "2017-12-12T17:29:31.554Z"
+                }
+            },
+            {
+                "_index": "products-v1",
+                "_type": "amazon",
+                "_id": "B01F0CNMXY",
+                "_score": 13.664003,
+                "_source": {
+                    "brand": "Adidas",
+                    "feature": [
+                        "climalite fabric sweeps sweat away from your skin.",
+                        "techfit focuses your muscles' energy to generate maximum explosive power, acceleration and long-term endurance.",
+                        "UPF 50+ UV PROTECTION; 16\" inseam (size Med).",
+                        "Compression fit for support and reduced muscle vibration.",
+                        "88% polyester / 12% elastane single jersey."
+                    ],
+                    "upc": "889768915067",
+                    "ean": "0889768915067",
+                    "description": "Your base layer for performance, these men's three-quarter-length training tights have a cropped length for optimal mobility and a compression fit that helps keep muscles primed. Climalite fabric sweeps away sweat to help keep you dry.",
+                    "listPrice": 2212,
+                    "attributes": [
+                        {
+                            "name": "Size",
+                            "value": "Small"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Dark Green"
+                        }
+                    ],
+                    "similar": [
+                        "B0108QYJKM",
+                        "B0108QYJO8",
+                        "B0108QYBMI",
+                        "B0108QYJR0",
+                        "B0108QYC22",
+                        "B00OVTBCZI",
+                        "B01A6VKUFM",
+                        "B01AK7K6VK",
+                        "B0711FN28W",
+                        "B00SGT6UJM"
+                    ],
+                    "categories": [
+                        [
+                            {
+                                "node": "3375251",
+                                "title": "Sports & Outdoors",
+                                "level": 0,
+                                "parent": "0"
+                            },
+                            {
+                                "node": "10971181011",
+                                "title": "Sports & Fitness",
+                                "level": 1,
+                                "parent": "3375251"
+                            },
+                            {
+                                "node": "3407731",
+                                "title": "Exercise & Fitness",
+                                "level": 2,
+                                "parent": "10971181011"
+                            },
+                            {
+                                "node": "3407841",
+                                "title": "Clothing",
+                                "level": 3,
+                                "parent": "3407731"
+                            },
+                            {
+                                "node": "3380151",
+                                "title": "Men",
+                                "level": 4,
+                                "parent": "3407841"
+                            }
+                        ],
+                        [
+                            {
+                                "node": "3375251",
+                                "title": "Sports & Outdoors",
+                                "level": 0,
+                                "parent": "0"
+                            },
+                            {
+                                "node": "10971181011",
+                                "title": "Sports & Fitness",
+                                "level": 1,
+                                "parent": "3375251"
+                            },
+                            {
+                                "node": "11444071011",
+                                "title": "Clothing",
+                                "level": 2,
+                                "parent": "10971181011"
+                            },
+                            {
+                                "node": "11444072011",
+                                "title": "Men",
+                                "level": 3,
+                                "parent": "11444071011"
+                            },
+                            {
+                                "node": "11444085011",
+                                "title": "Tights & Leggings",
+                                "level": 4,
+                                "parent": "11444072011"
+                            }
+                        ],
+                        [
+                            {
+                                "node": "3375251",
+                                "title": "Sports & Outdoors",
+                                "level": 0,
+                                "parent": "0"
+                            },
+                            {
+                                "node": "11130423011",
+                                "title": "Sports & Fitness Features",
+                                "level": 1,
+                                "parent": "3375251"
+                            }
+                        ],
+                        [
+                            {
+                                "node": "7141123011",
+                                "title": "Clothing, Shoes & Jewelry",
+                                "level": 0,
+                                "parent": "0"
+                            },
+                            {
+                                "node": "7147441011",
+                                "title": "Men",
+                                "level": 1,
+                                "parent": "7141123011"
+                            },
+                            {
+                                "node": "1040658",
+                                "title": "Clothing",
+                                "level": 2,
+                                "parent": "7147441011"
+                            },
+                            {
+                                "node": "3455821",
+                                "title": "Active",
+                                "level": 3,
+                                "parent": "1040658"
+                            }
+                        ],
+                        [
+                            {
+                                "node": "7141123011",
+                                "title": "Clothing, Shoes & Jewelry",
+                                "level": 0,
+                                "parent": "0"
+                            },
+                            {
+                                "node": "7147441011",
+                                "title": "Men",
+                                "level": 1,
+                                "parent": "7141123011"
+                            },
+                            {
+                                "node": "7581669011",
+                                "title": "Shops",
+                                "level": 2,
+                                "parent": "7147441011"
+                            }
+                        ]
+                    ],
+                    "asin": "B01F0CNMXY",
+                    "parent": "B01A6VKP84",
+                    "title": "Adidas Techfit Base Mens Three S Dark Green",
+                    "suggestions": "Adidas Techfit Base Mens Three S Dark Green",
+                    "price": 2212,
+                    "salePrice": 2212,
+                    "prime": true,
+                    "optimus": true,
+                    "dimensions": {
+                        "height": 150,
+                        "length": 920,
+                        "width": 590,
+                        "weight": 24
+                    },
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/I/41O1xYoQPiL._UL900_.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/41elt3Pev6L._UL900_.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/41O1xYoQPiL._UL900_.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/31yD-V3qC1L._UL900_.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/41O1xYoQPiL._UL900_.jpg"
+                    ],
+                    "experimental": {
+                        "f1RankAZ": 12.575356483459473,
+                        "f2BackpackPrice": 2876,
+                        "f5Sweetness": 152.9878
+                    },
+                    "updatedAt": "2018-01-06T09:06:06.391Z"
+                }
+            },
+            {
+                "_index": "products-v1",
+                "_type": "amazon",
+                "_id": "B01F4OM1I0",
+                "_score": 13.229798,
+                "_source": {
+                    "prime": false,
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/I/51f0G0j6hjL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/81js91TmG6L.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/816I155YGSL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/811vQ7SdJuL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/71WnqZtx4hL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/81NqZ-D0kiL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/81JNKkN--aL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/81iyVEgAm9L.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/817nOmo6GrL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/81UoqWS96XL.jpg"
+                    ],
+                    "salePrice": 5225,
+                    "upc": "716106966866",
+                    "description": "AdidasFeatures: 600D polyester with durable PVC backing Small duffel Large main compartment Adjustable, non-removable shoulder strap Dual carrying handles Screenprinted adidas® logo L 18 1/2 in; W 11 in; H 10 in Volume: 2075 cu in Color:Crusher Ultra Bright/Onix Stash your gym gear or weekend wardrobe in the adidas® Diablo medium duffel bag. It features a strong 600D polyester construction with PVC backing for added durability. The large storage compartment has a zipper closure, while adjustable shoulder straps and dual handles offer two carrying options.",
+                    "experimental": {
+                        "f1RankAZ": 12.575356483459473,
+                        "f2BackpackPrice": 10145,
+                        "f5Sweetness": 100.3643
+                    },
+                    "title": "adidas Diablo II Gear Up Small Gym Travel All Sports Gear Duffle Bag (Crusher Ultra Bright/Onix)",
+                    "ean": "0716106966866",
+                    "optimus": false,
+                    "feature": [
+                        "Tote your gear in the adidas Diablo Small Duffel Bag. Durable, 600-denier polyester material is designed to stand up to heavy use, and the top-loading, zippered main compartment provides easy access to your items. Web handles with a padded wrap and an adjustable shoulder strap offer comfort as you carry the duffel bag. Screen-printed adidas brandmark on the side and end panels.",
+                        "Features and Benefits: 600-denier polyester provides durability",
+                        "Top-loading, zippered main compartment offers easy access",
+                        "Web carrying handles with a padded wrap and an adjustable shoulder strap for comfort while carrying",
+                        "Screen-printed adidas brandmark on the side and end panels"
+                    ],
+                    "price": 5225,
+                    "asin": "B01F4OM1I0",
+                    "categories": [
+                        [
+                            {
+                                "node": "7141123011",
+                                "parent": "0",
+                                "level": 0,
+                                "title": "Clothing, Shoes & Jewelry"
+                            },
+                            {
+                                "node": "9479199011",
+                                "parent": "7141123011",
+                                "level": 1,
+                                "title": "Luggage & Travel Gear"
+                            },
+                            {
+                                "node": "15743181",
+                                "parent": "9479199011",
+                                "level": 2,
+                                "title": "Gym Bags"
+                            },
+                            {
+                                "node": "3395001",
+                                "parent": "15743181",
+                                "level": 3,
+                                "title": "Sports Duffels"
+                            }
+                        ]
+                    ],
+                    "brand": "Adidas",
+                    "listPrice": 5225,
+                    "dimensions": {
+                        "length": 2382,
+                        "width": 1201,
+                        "weight": 65,
+                        "height": 280
+                    },
+                    "updatedAt": "2017-12-04T09:11:16.790Z"
+                }
+            },
+            {
+                "_index": "products-v1",
+                "_type": "amazon",
+                "_id": "B00B1GAOCQ",
+                "_score": 13.229798,
+                "_source": {
+                    "prime": false,
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/I/51G5qSpKCLL._UL900_.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/51G5qSpKCLL._UL900_.jpg"
+                    ],
+                    "salePrice": 3300,
+                    "upc": "886834988512",
+                    "description": "Adidas Kid's Speedtrick Hoodie (Blast Pink/Black/White) X-Large",
+                    "experimental": {
+                        "f1RankAZ": 12.575356483459473,
+                        "f2BackpackPrice": 4476,
+                        "f5Sweetness": 194.2123
+                    },
+                    "title": "Adidas Kid's Speedtrick Hoodie (Blast Pink/Black/White) X-Large",
+                    "ean": "0886834988512",
+                    "optimus": false,
+                    "feature": [
+                        "Adidas Kid's Speedtrick Hoodie (Blast Pink/Black/White) X-Large"
+                    ],
+                    "price": 3300,
+                    "asin": "B00B1GAOCQ",
+                    "categories": [
+                        [
+                            {
+                                "node": "3375251",
+                                "parent": "0",
+                                "level": 0,
+                                "title": "Sports & Outdoors"
+                            },
+                            {
+                                "node": "10971181011",
+                                "parent": "3375251",
+                                "level": 1,
+                                "title": "Sports & Fitness"
+                            },
+                            {
+                                "node": "706809011",
+                                "parent": "10971181011",
+                                "level": 2,
+                                "title": "Team Sports"
+                            },
+                            {
+                                "node": "3417981",
+                                "parent": "706809011",
+                                "level": 3,
+                                "title": "Soccer"
+                            },
+                            {
+                                "node": "2371060011",
+                                "parent": "3417981",
+                                "level": 4,
+                                "title": "Clothing"
+                            },
+                            {
+                                "node": "2419388011",
+                                "parent": "2371060011",
+                                "level": 5,
+                                "title": "Boys"
+                            }
+                        ],
+                        [
+                            {
+                                "node": "3375251",
+                                "parent": "0",
+                                "level": 0,
+                                "title": "Sports & Outdoors"
+                            },
+                            {
+                                "node": "10971181011",
+                                "parent": "3375251",
+                                "level": 1,
+                                "title": "Sports & Fitness"
+                            },
+                            {
+                                "node": "11444071011",
+                                "parent": "10971181011",
+                                "level": 2,
+                                "title": "Clothing"
+                            },
+                            {
+                                "node": "11444171011",
+                                "parent": "11444071011",
+                                "level": 3,
+                                "title": "Boys"
+                            }
+                        ],
+                        [
+                            {
+                                "node": "3375251",
+                                "parent": "0",
+                                "level": 0,
+                                "title": "Sports & Outdoors"
+                            },
+                            {
+                                "node": "11130423011",
+                                "parent": "3375251",
+                                "level": 1,
+                                "title": "Sports & Fitness Features"
+                            }
+                        ]
+                    ],
+                    "brand": "Adidas",
+                    "listPrice": 3300,
+                    "dimensions": {
+                        "length": 1270,
+                        "width": 890,
+                        "weight": 60,
+                        "height": 140
+                    },
+                    "updatedAt": "2017-12-15T23:49:42.906Z"
+                }
+            },
+            {
+                "_index": "products-v1",
+                "_type": "amazon",
+                "_id": "B01LXNWCPE",
+                "_score": 13.229798,
+                "_source": {
+                    "prime": false,
+                    "similar": [
+                        "B073SF4TZT",
+                        "B01MRAHN96",
+                        "B00PKMMSTY",
+                        "B01N8PQ2CJ",
+                        "B01HO7Z9TI",
+                        "B014IZE8BO",
+                        "B005OHF65I",
+                        "B009ZXPR88",
+                        "B005BTZNKW",
+                        "B00T71HXGM"
+                    ],
+                    "parent": "B01N46GOUH",
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/I/51gQZ%2BjJdRL._UL900_.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/71E7plek6VL._UL900_.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/71FiLR1ecrL._UL900_.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/81U2nee5e7L._UL900_.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/51bccsjTFvL._UL900_.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/71kUGts0TPL._UL900_.jpg"
+                    ],
+                    "salePrice": 6508,
+                    "upc": "889766407892",
+                    "description": "Hot high-top style emanates from this bold street sneaker that fuses retro appeal with high-end fashion for the complete package..",
+                    "experimental": {
+                        "f1RankAZ": 12.575356483459473,
+                        "f2BackpackPrice": 10983,
+                        "f5Sweetness": 137.4878
+                    },
+                    "title": "Adidas Mens Tubular Instinct JC Shoes (11 D(M) US, Core Black/Crystal White/Running White)",
+                    "ean": "0889766407892",
+                    "optimus": false,
+                    "feature": [
+                        "Jacquard fabric uppers features a white noise pattern.",
+                        "High silhouette with a padded ankle.",
+                        "Easy lace-up closure.",
+                        "Soft and breathable textile linings.",
+                        "Features a semi-translucent Tubular rubber outsole."
+                    ],
+                    "price": 6508,
+                    "attributes": [
+                        {
+                            "name": "Size",
+                            "value": "11 D(M) US"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Core Black/Crystal White/Running White"
+                        }
+                    ],
+                    "asin": "B01LXNWCPE",
+                    "suggestions": "Adidas Mens Tubular Instinct JC Shoes (11 D(M) US, Core Black/Crystal White/Running White)",
+                    "categories": [
+                        [
+                            {
+                                "node": "7141123011",
+                                "parent": "0",
+                                "level": 0,
+                                "title": "Clothing, Shoes & Jewelry"
+                            },
+                            {
+                                "node": "7147441011",
+                                "parent": "7141123011",
+                                "level": 1,
+                                "title": "Men"
+                            },
+                            {
+                                "node": "679255011",
+                                "parent": "7147441011",
+                                "level": 2,
+                                "title": "Shoes"
+                            },
+                            {
+                                "node": "679312011",
+                                "parent": "679255011",
+                                "level": 3,
+                                "title": "Fashion Sneakers"
+                            }
+                        ],
+                        [
+                            {
+                                "node": "7141123011",
+                                "parent": "0",
+                                "level": 0,
+                                "title": "Clothing, Shoes & Jewelry"
+                            },
+                            {
+                                "node": "7147441011",
+                                "parent": "7141123011",
+                                "level": 1,
+                                "title": "Men"
+                            },
+                            {
+                                "node": "7581669011",
+                                "parent": "7147441011",
+                                "level": 2,
+                                "title": "Shops"
+                            }
+                        ]
+                    ],
+                    "brand": "Adidas",
+                    "listPrice": 6508,
+                    "dimensions": {
+                        "length": 1400,
+                        "width": 1000,
+                        "weight": 162,
+                        "height": 500
+                    },
+                    "updatedAt": "2017-12-25T05:44:28.012Z"
+                }
+            },
+            {
+                "_index": "products-v1",
+                "_type": "amazon",
+                "_id": "B06XQPXB2D",
+                "_score": 13.229798,
+                "_source": {
+                    "prime": false,
+                    "similar": [
+                        "B00OM5XH7M",
+                        "B010Q3IRZA",
+                        "B076QPGP5K",
+                        "B078229RV4",
+                        "B01E0MX8HU",
+                        "B06XSRFVKL",
+                        "B075KXL5YZ",
+                        "B01E0JDNMS",
+                        "B01N2W8CAY",
+                        "B01M3VWOSU"
+                    ],
+                    "parent": "B076ZVN1YQ",
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/I/51Szs6%2BF4DL._UL900_.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/51F3CUbkmvL._UL900_.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/61ardQLEepL._UL900_.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/61-SAwr79cL._UL900_.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/61CpR4MWE5L._UL900_.jpg"
+                    ],
+                    "salePrice": 5999,
+                    "upc": "889772438439",
+                    "description": "The Adidas Madoru 2 m Athletic feature a Synthetic upper with a Round Toe. The Man-Made outsole lends lasting traction and wear.",
+                    "experimental": {
+                        "f1RankAZ": 12.575356483459473,
+                        "f2BackpackPrice": 9702,
+                        "f5Sweetness": 144.4872
+                    },
+                    "title": "adidas Mens Madoru 2 M Running Shoes with Ortholite insoles (11)",
+                    "ean": "0889772438439",
+                    "optimus": false,
+                    "feature": [
+                        "Textile and synthetic",
+                        "Mesh upper for breathability",
+                        "Comfortable Ortholite insole",
+                        "Flex groove outsole for flexible movement",
+                        "Ortholite cushioning for step in comfort"
+                    ],
+                    "price": 5999,
+                    "attributes": [
+                        {
+                            "name": "Size",
+                            "value": "11 D(M) US"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Black, White and Dale Shale"
+                        }
+                    ],
+                    "asin": "B06XQPXB2D",
+                    "suggestions": "adidas Mens Madoru 2 M Running Shoes with Ortholite insoles (11)",
+                    "categories": [
+                        [
+                            {
+                                "node": "7141123011",
+                                "parent": "0",
+                                "level": 0,
+                                "title": "Clothing, Shoes & Jewelry"
+                            },
+                            {
+                                "node": "7147441011",
+                                "parent": "7141123011",
+                                "level": 1,
+                                "title": "Men"
+                            },
+                            {
+                                "node": "679255011",
+                                "parent": "7147441011",
+                                "level": 2,
+                                "title": "Shoes"
+                            },
+                            {
+                                "node": "6127770011",
+                                "parent": "679255011",
+                                "level": 3,
+                                "title": "Athletic"
+                            },
+                            {
+                                "node": "679286011",
+                                "parent": "6127770011",
+                                "level": 4,
+                                "title": "Running"
+                            },
+                            {
+                                "node": "3420973011",
+                                "parent": "679286011",
+                                "level": 5,
+                                "title": "Track & Field & Cross Country"
+                            }
+                        ],
+                        [
+                            {
+                                "node": "7141123011",
+                                "parent": "0",
+                                "level": 0,
+                                "title": "Clothing, Shoes & Jewelry"
+                            },
+                            {
+                                "node": "7147441011",
+                                "parent": "7141123011",
+                                "level": 1,
+                                "title": "Men"
+                            },
+                            {
+                                "node": "7581669011",
+                                "parent": "7147441011",
+                                "level": 2,
+                                "title": "Shops"
+                            }
+                        ]
+                    ],
+                    "brand": "Adidas",
+                    "listPrice": 5999,
+                    "dimensions": {
+                        "length": 1311,
+                        "width": 890,
+                        "weight": 170,
+                        "height": 488
+                    },
+                    "updatedAt": "2018-01-04T10:45:30.904Z"
+                }
+            },
+            {
+                "_index": "products-v1",
+                "_type": "amazon",
+                "_id": "B06XXSPPGN",
+                "_score": 13.229798,
+                "_source": {
+                    "brand": "Adidas",
+                    "feature": [
+                        "The adidas Originals Tubular X puts a streetwise spin on a basketball style.",
+                        "Neoprene upper produces a sock-like fit with Aqua-Tech print and synthetic nubuck overlays",
+                        "EVA outsole supplies durability and traction on a range of surfaces",
+                        "Rubber sole"
+                    ],
+                    "upc": "889130580961",
+                    "ean": "0889130580961",
+                    "description": "The adidas Originals Tubular X puts a streetwise spin on a basketball style.",
+                    "listPrice": 5495,
+                    "categories": [
+                        [
+                            {
+                                "node": "7141123011",
+                                "title": "Clothing, Shoes & Jewelry",
+                                "level": 0,
+                                "parent": "0"
+                            },
+                            {
+                                "node": "7147443011",
+                                "title": "Boys",
+                                "level": 1,
+                                "parent": "7141123011"
+                            },
+                            {
+                                "node": "679182011",
+                                "title": "Shoes",
+                                "level": 2,
+                                "parent": "7147443011"
+                            },
+                            {
+                                "node": "6127768011",
+                                "title": "Athletic",
+                                "level": 3,
+                                "parent": "679182011"
+                            },
+                            {
+                                "node": "3420515011",
+                                "title": "Basketball",
+                                "level": 4,
+                                "parent": "6127768011"
+                            }
+                        ]
+                    ],
+                    "asin": "B06XXSPPGN",
+                    "title": "Adidas - Boy's Tubular Invader X K Sneakers (Big Kid) - Black/Scarlet",
+                    "suggestions": "Adidas - Boy's Tubular Invader X K Sneakers (Big Kid) - Black/Scarlet",
+                    "price": 5495,
+                    "salePrice": 5495,
+                    "prime": true,
+                    "optimus": true,
+                    "dimensions": {
+                        "height": 441,
+                        "length": 1150,
+                        "width": 929,
+                        "weight": 185
+                    },
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/I/51FnHcomaQL._UL900_.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/71ZjmzeZLrL._UL900_.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/61x8vqPREkL._UL900_.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/61L7Pp40OwL._UL900_.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/71lDWmFFtnL._UL900_.jpg"
+                    ],
+                    "experimental": {
+                        "f1RankAZ": 12.575356483459473,
+                        "f2BackpackPrice": 8607,
+                        "f5Sweetness": 145.1958
+                    },
+                    "updatedAt": "2018-01-06T10:53:05.436Z"
+                }
+            },
+            {
+                "_index": "products-v1",
+                "_type": "amazon",
+                "_id": "B01MCYY75H",
+                "_score": 13.207781,
+                "_source": {
+                    "prime": false,
+                    "parent": "B01DB1AWSE",
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/I/41gHpvktP8L._UL900_.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/51nxnscD3VL._UL900_.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/51skVILJFrL._UL900_.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/51UhjBW7tEL._UL900_.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/510EQ1UNh3L._UL900_.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/51Wp7vly0AL._UL900_.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/511FZ2wxqVL._UL900_.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/51EpRSbw6KL._UL900_.jpg"
+                    ],
+                    "salePrice": 5450,
+                    "upc": "889765185784",
+                    "description": "Upgrade your torn and tattered skate shoes to the durable adidas Campus Vulc..",
+                    "experimental": {
+                        "f1RankAZ": 12.575356483459473,
+                        "f2BackpackPrice": 8378,
+                        "f5Sweetness": 141.5449
+                    },
+                    "title": "Adidas Men's Campus Vulc II ADV Conavy/Ftwwht/Ftwwht Skate Shoe 11.5 Men US",
+                    "ean": "0889765185784",
+                    "optimus": false,
+                    "feature": [
+                        "Vulcanized sole",
+                        "Tonal 3-Stripes"
+                    ],
+                    "price": 5450,
+                    "asin": "B01MCYY75H",
+                    "categories": [
+                        [
+                            {
+                                "node": "7141123011",
+                                "parent": "0",
+                                "level": 0,
+                                "title": "Clothing, Shoes & Jewelry"
+                            },
+                            {
+                                "node": "7147441011",
+                                "parent": "7141123011",
+                                "level": 1,
+                                "title": "Men"
+                            },
+                            {
+                                "node": "679255011",
+                                "parent": "7147441011",
+                                "level": 2,
+                                "title": "Shoes"
+                            },
+                            {
+                                "node": "679312011",
+                                "parent": "679255011",
+                                "level": 3,
+                                "title": "Fashion Sneakers"
+                            }
+                        ],
+                        [
+                            {
+                                "node": "7141123011",
+                                "parent": "0",
+                                "level": 0,
+                                "title": "Clothing, Shoes & Jewelry"
+                            },
+                            {
+                                "node": "7147441011",
+                                "parent": "7141123011",
+                                "level": 1,
+                                "title": "Men"
+                            },
+                            {
+                                "node": "679255011",
+                                "parent": "7147441011",
+                                "level": 2,
+                                "title": "Shoes"
+                            },
+                            {
+                                "node": "6127770011",
+                                "parent": "679255011",
+                                "level": 3,
+                                "title": "Athletic"
+                            },
+                            {
+                                "node": "679295011",
+                                "parent": "6127770011",
+                                "level": 4,
+                                "title": "Skateboarding"
+                            }
+                        ],
+                        [
+                            {
+                                "node": "7141123011",
+                                "parent": "0",
+                                "level": 0,
+                                "title": "Clothing, Shoes & Jewelry"
+                            },
+                            {
+                                "node": "7147441011",
+                                "parent": "7141123011",
+                                "level": 1,
+                                "title": "Men"
+                            },
+                            {
+                                "node": "7581669011",
+                                "parent": "7147441011",
+                                "level": 2,
+                                "title": "Shops"
+                            }
+                        ]
+                    ],
+                    "brand": "Adidas",
+                    "listPrice": 5450,
+                    "dimensions": {
+                        "length": 1300,
+                        "width": 750,
+                        "weight": 231,
+                        "height": 450
+                    },
+                    "updatedAt": "2017-12-21T08:38:36.721Z"
+                }
+            },
+            {
+                "_index": "products-v1",
+                "_type": "amazon",
+                "_id": "B01N9EOVVJ",
+                "_score": 13.207781,
+                "_source": {
+                    "brand": "Adidas",
+                    "feature": [
+                        "Side seam pockets; Full zip with centre-zip hood; Contrast hood lining",
+                        "Ribbed cuffs; Printed adidas STELLASPORT logo on hem",
+                        "Medium loft padding; Slim fit",
+                        "100% nylon plain weave",
+                        "Delicate machine wash only at no more than 30°, tumble dry low, do not iron and don't dry-clean!"
+                    ],
+                    "ean": "4057282442819",
+                    "description": "Adidas STELLASPORT Warm Padded Workout/Training Jacket is a warm jacket that keeps you comfy as you train. With a slim fit and padding for extra comfort, this women's training jacket brings street style to the gym. The full-zip jacket has a centre-zip hood with a contrast lining and a cuffed hem with an adidas STELLASPORT logo. Designed in collaboration with Stella McCartney.",
+                    "listPrice": 15000,
+                    "attributes": [
+                        {
+                            "name": "Size",
+                            "value": "Large"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Semi Solar Red"
+                        }
+                    ],
+                    "categories": [
+                        [
+                            {
+                                "node": "7141123011",
+                                "title": "Clothing, Shoes & Jewelry",
+                                "level": 0,
+                                "parent": "0"
+                            },
+                            {
+                                "node": "7147440011",
+                                "title": "Women",
+                                "level": 1,
+                                "parent": "7141123011"
+                            },
+                            {
+                                "node": "1040660",
+                                "title": "Clothing",
+                                "level": 2,
+                                "parent": "7147440011"
+                            },
+                            {
+                                "node": "1044646",
+                                "title": "Coats, Jackets & Vests",
+                                "level": 3,
+                                "parent": "1040660"
+                            }
+                        ],
+                        [
+                            {
+                                "node": "7141123011",
+                                "title": "Clothing, Shoes & Jewelry",
+                                "level": 0,
+                                "parent": "0"
+                            },
+                            {
+                                "node": "7147440011",
+                                "title": "Women",
+                                "level": 1,
+                                "parent": "7141123011"
+                            },
+                            {
+                                "node": "7581668011",
+                                "title": "Shops",
+                                "level": 2,
+                                "parent": "7147440011"
+                            }
+                        ]
+                    ],
+                    "asin": "B01N9EOVVJ",
+                    "parent": "B01N1PFFH4",
+                    "title": "Adidas Womens STELLASPORT Warm Padded Jacket (Large, Semi Solar Red)",
+                    "suggestions": "Adidas Womens STELLASPORT Warm Padded Jacket (Large, Semi Solar Red)",
+                    "price": 15000,
+                    "salePrice": 6995,
+                    "prime": true,
+                    "optimus": true,
+                    "dimensions": {
+                        "height": 440,
+                        "length": 1450,
+                        "width": 1000,
+                        "weight": 125
+                    },
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/I/51SgaL1SniL._UL900_.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/81ninF7QDSL._UL900_.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/81l0R9SF8KL._UL900_.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/81CLmpIIWIL._UL900_.jpg"
+                    ],
+                    "experimental": {
+                        "f1RankAZ": 12.575356483459473,
+                        "f2BackpackPrice": 11169,
+                        "f5Sweetness": 170.1306
+                    },
+                    "updatedAt": "2018-01-06T10:55:14.320Z"
+                }
+            }
+        ]
+    }
+}
